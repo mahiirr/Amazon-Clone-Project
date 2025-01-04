@@ -128,7 +128,7 @@ span{
 }
      /* Main Section */
     .main-section{
-        background-image: url(/images/AZMimage1.jpg);
+        background-image: url(./images/AZMimage1.jpg);
         height: 400px;
         background-size: cover;
         display: flex;
