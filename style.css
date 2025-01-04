@@ -16,7 +16,7 @@
   width: 110px;
 }
 .logo{
-    background-image: url(Amazon-Logo-2-removebg.png);
+    background-image: url(images/Amazon-Logo-2-removebg.png);
     background-size: cover;
     height: 50px;
     width: 110px;
@@ -128,7 +128,7 @@ span{
 }
      /* Main Section */
     .main-section{
-        background-image: url(AZMimage1.jpg);
+        background-image: url(/images/AZMimage1.jpg);
         height: 400px;
         background-size: cover;
         display: flex;
@@ -219,7 +219,7 @@ ul a{
     align-items: center;
   }
  .logo2{
-    background-image: url(Amazon-Logo-2-removebg.png);
+    background-image: url(/images/Amazon-Logo-2-removebg.png);
     background-size: cover;
     height: 50px;
     width: 110px;
